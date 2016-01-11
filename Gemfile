@@ -9,8 +9,8 @@ gem 'turbolinks'
 gem 'jquery-turbolinks'
 gem 'jbuilder'
 gem 'bootstrap-sass'
-gem 'omniauth-facebook'
 gem 'omniauth-twitter'
+gem 'omniauth-facebook'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 group :development, :test do
